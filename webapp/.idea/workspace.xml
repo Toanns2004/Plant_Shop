@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fa298684-e52b-456b-8559-19bd12179117" name="Changes" comment="Sem2-eProject">
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/icons/accessories.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/icons/flowering.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/icons/gift.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/icons/indoor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/icons/information.2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/icons/outdoor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/icons/pay-per-click.2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/icons/pots.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/icons/protection.2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/icons/shipping.2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/icons/supplies.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/banner.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/gettyimages-96418382-1024x1024.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/pay.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/promo1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/promo2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/promo3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/promo4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/promo5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/thumb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/web-shop.1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/css/about.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/css/admin.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/css/cart.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/css/category.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/css/checkout.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/css/contact.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/css/footer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/css/header.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/css/home.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/css/info.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/css/login.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/css/product-card.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/css/product.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/css/search.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/AdminSideBar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/CategorySideBar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Footer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Header.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ProductCard.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/SearchProduct.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/forms/AddNewCategory.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/forms/AddNewProduct.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/forms/AddNewUser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/forms/ContactUs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/forms/EditCategory.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/forms/EditProduct.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/forms/EditUser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/forms/Login.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/forms/Register.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/forms/UserUpdate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/AboutUs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Admin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Category.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Checkout.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Home.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Product.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/SearchResults.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/ShoppingCart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/UserInfor.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reportWebVitals.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/services/auth-header.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/services/auth-service.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/services/authEvents.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/services/cart-service.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/services/category-service.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/services/order-service.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/services/product-service.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/services/user-service.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/setupTests.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/CategoryDetails.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/OrderDetails.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/ProductDetails.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/UserDetails.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/ViewCategories.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/ViewOrder.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/ViewProducts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/ViewUsers.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <branch-grouping />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectId" id="2UIgEoGNxqoik1fGHckaHHYx8Ud" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "javascript.nodejs.core.library.configured.version": "18.16.0",
+    "javascript.nodejs.core.library.typings.version": "18.16.0",
+    "last_opened_file_path": "/Users/hungphung/Desktop/Aptech/SEM2-eProject/webapp/node_modules",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_interpreter_path": "node",
+    "nodejs_package_manager_path": "npm",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/node_modules" />
+      <recent name="$PROJECT_DIR$/public/img" />
+      <recent name="$PROJECT_DIR$/public/icons" />
+      <recent name="$PROJECT_DIR$/src/assets/css" />
+      <recent name="$PROJECT_DIR$/src/assets/images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/pages" />
+      <recent name="$PROJECT_DIR$/src/forms" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.npm start">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="productdetails.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$USER_HOME$/Documents/Zalo Received Files/p2/src/productdetails.js" working-dir="$USER_HOME$/Documents/Zalo Received Files/p2/src">
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.productdetails.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fa298684-e52b-456b-8559-19bd12179117" name="Changes" comment="" />
+      <created>1692632400449</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1692632400449</updated>
+      <workItem from="1692632401402" duration="11470000" />
+      <workItem from="1693185648980" duration="9827000" />
+      <workItem from="1693242700405" duration="12122000" />
+      <workItem from="1693359279696" duration="1761000" />
+      <workItem from="1693497006113" duration="7836000" />
+      <workItem from="1693585112398" duration="6072000" />
+      <workItem from="1693762464414" duration="9882000" />
+      <workItem from="1693846197223" duration="12413000" />
+      <workItem from="1693892878517" duration="4641000" />
+      <workItem from="1693964446679" duration="11331000" />
+      <workItem from="1694019261852" duration="6203000" />
+      <workItem from="1694090467844" duration="7035000" />
+      <workItem from="1694136854439" duration="9463000" />
+      <workItem from="1694217674080" duration="13857000" />
+      <workItem from="1694361639235" duration="10342000" />
+      <workItem from="1694442952158" duration="16811000" />
+      <workItem from="1694541323028" duration="8946000" />
+      <workItem from="1694568626568" duration="7073000" />
+      <workItem from="1694577961986" duration="1744000" />
+      <workItem from="1694656617799" duration="18427000" />
+      <workItem from="1694743471867" duration="8509000" />
+      <workItem from="1694794445320" duration="22736000" />
+      <workItem from="1694889778912" duration="11378000" />
+      <workItem from="1694934156625" duration="8108000" />
+      <workItem from="1694956515213" duration="24503000" />
+      <workItem from="1695001246271" duration="5800000" />
+      <workItem from="1695060936114" duration="11531000" />
+      <workItem from="1695148612132" duration="18256000" />
+      <workItem from="1695173418091" duration="8970000" />
+      <workItem from="1695298533702" duration="29682000" />
+      <workItem from="1695481033582" duration="26927000" />
+      <workItem from="1695574914482" duration="18275000" />
+      <workItem from="1695605634057" duration="2200000" />
+      <workItem from="1695748246941" duration="12730000" />
+      <workItem from="1695761680269" duration="699000" />
+      <workItem from="1695763080827" duration="61000" />
+      <workItem from="1695763145683" duration="76000" />
+      <workItem from="1695763247874" duration="184000" />
+      <workItem from="1695763491838" duration="1253000" />
+      <workItem from="1695764767689" duration="2568000" />
+      <workItem from="1695780788985" duration="4329000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Sem2-eProject" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sem2-eProject" />
+  </component>
+</project>

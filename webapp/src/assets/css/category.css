@@ -1,0 +1,109 @@
+
+.category-page{
+}
+
+.category-page .cat-sb{
+    padding: 20px 0;
+    background-color: rgba(91, 165, 21, 0.1);
+    min-height: 100%;
+}
+.category-page .cat-sb .cat-sb-item a{
+    text-decoration: none;
+    padding-left: 20px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    color: #2e5c03;
+}
+.category-page .cat-sb .cat-sb-item{
+    /*padding-left: 20px;*/
+    /*height: 40px;*/
+    /*display: flex;*/
+    /*align-items: center;*/
+    /*color: #2e5c03;*/
+}
+.category-page .cat-sb .cat-sb-item a:hover{
+    color: #ffffff;
+    background-color: #5ba515;
+    cursor: pointer;
+}
+
+.category-page .cat-content{
+    margin: 20px 0;
+}
+
+.cat-content .content-hd{
+    margin-bottom: 10px;
+}
+.cat-content .content-hd span{
+    margin-right: 10px;
+}
+
+.cat-content .card{
+    border-radius: 15px;
+    margin: 10px 3px;
+    /*box-shadow: 0px 0px 13px 0px #00000040;*/
+}
+.cat-content .card a{
+    text-decoration: none;
+    color: #000;
+}
+.cat-content .card a:hover{
+    color: #5ba515;
+}
+.cat-content .card-img-top{
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+
+.cat-content .card h4{
+    width: 100%;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.cat-content .card h4 .auto-adjust-font-size {
+    display: inline-block;
+    vertical-align: middle;
+    font-size: 16px;
+}
+@media (max-width: 400px) {
+    .cat-content .card h4.auto-adjust-font-size {
+        font-size: 12px;
+    }
+}
+
+
+.cat-content .add-cart{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    background-color: #5ba515;
+    text-align: center;
+    color: #ffffff;
+    width: 100%;
+    height: 50px;
+    font-size: 20px;
+    padding: 15px 0;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    opacity: 0;
+}
+.cat-content .card:hover .add-cart{
+    opacity: 1;
+}
+
+.cat-content .pagination {
+    margin-top: 20px;
+    color: #5ba515;
+}
+.cat-content .pagination .page-item .page-link{
+    color: #5ba515;
+}
+
+.cat-content .pagination .active .page-item .page-link{
+    background-color: #5ba515;
+    color: #ffffff;
+}
+
+

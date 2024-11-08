@@ -1,0 +1,39 @@
+.checkout-page{
+    margin: 30px 0;
+}
+
+.checkout-page .billing{
+
+}
+
+.checkout-page .summary{
+    background-color: rgba(91, 165, 21, 1);
+    color: #ffffff;
+    padding: 20px;
+    font-size: 20px;
+}
+.checkout-page .summary p{
+    color: #ffffff;
+    font-size: 20px;
+}
+
+.checkout-page .summary .form-check-label{
+    color: #ffffff;
+    font-size: 20px;
+}
+.checkout-page .summary .order-cfm{
+    display: flex;
+    justify-content: end;
+}
+.checkout-page .order-cfm-btn{
+    border: solid 2px #ffffff;
+    background-color: #5ba515;
+    color: #ffffff;
+    padding: 5px 20px;
+    font-size: 25px;
+    min-width: 200px;
+}
+.checkout-page .summary .order-cfm .order-cfm-btn:hover{
+    background-color: #ffffff;
+    color: #5ba515;
+}

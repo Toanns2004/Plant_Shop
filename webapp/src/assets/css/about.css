@@ -1,0 +1,25 @@
+.intro-page{
+    margin: 20px 0;
+}
+.intro-page .main-intro{
+    text-align: justify;
+    background: linear-gradient(90deg, rgba(91, 165, 21, 0.3), rgba(38, 149, 255, 0));
+    padding: 30px 0 30px 30px;
+    border-radius: 20px 0 0 20px;
+}
+.intro-page .main-intro button{
+    background-color: #2695FF;
+    color: #ffffff;
+    border: none;
+    border-radius: 10px;
+    font-size: 20px;
+    padding: 5px 20px;
+}
+.intro-page .team-intro{
+    text-align: center;
+}
+.intro-page .team-intro img{
+    box-shadow: 0px 0px 13px 0px #00000040;
+    border-radius: 50%;
+    border: 2px solid #5ba515;
+}

@@ -1,0 +1,295 @@
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap');
+
+
+
+.home-banner {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    white-space: nowrap;
+    overflow: hidden;
+    width: 100%;
+    height: 35vh;
+    font-family: 'Great Vibes', cursive !important;
+    color: #5ba515;
+    background: linear-gradient(90deg, rgba(255, 255, 255, 1), rgba(0, 0, 0, 0.1)), url("https://img.freepik.com/free-vector/watercolor-nature-background-with-leaves_52683-59449.jpg?w=2000&t=st=1695333043~exp=1695333643~hmac=2824e6c29b891dfa7a6ead8a76ad4bcee48a0c0f2f4d9b0ea9aa5b2bbbc6bbeb") center center/cover;
+}
+
+.home-banner h1 {
+    animation: moveRightToLeft 3s ease-in-out;
+    font-size: 60px;
+}
+@keyframes moveRightToLeft {
+    0% {
+        transform: translateX(100%);
+    }
+    100% {
+        transform: translateX(0);
+    }
+}
+
+.home-banner h3 {
+    animation: moveLeftToRight 3s ease-in-out forwards;
+}
+
+@keyframes moveLeftToRight {
+    0% {
+        transform: translateX(-100%);
+    }
+    100% {
+        transform: translateX(0);
+    }
+}
+
+.home-news{
+
+}
+
+.home-news .card{
+    border-radius: 15px;
+    margin: 3px 5px;
+    /*box-shadow: 0px 0px 13px 0px #00000040;*/
+}
+.home-news .card a{
+    text-decoration: none;
+    color: #5ba515;
+}
+.home-news .card a:hover{
+    color: #5ba515;
+}
+.home-news .card-img-top{
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+
+.home-news .card h4{
+    width: 100%;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.home-news .card h4 .auto-adjust-font-size {
+    display: inline-block;
+    vertical-align: middle;
+    font-size: 16px;
+}
+@media (max-width: 400px) {
+    .home-news .card h4.auto-adjust-font-size {
+        font-size: 12px;
+    }
+}
+
+
+.home-news .add-cart{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    background-color: #5ba515;
+    text-align: center;
+    color: #ffffff;
+    width: 100%;
+    height: 50px;
+    font-size: 20px;
+    padding: 15px 0;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    opacity: 0;
+}
+.home-news .card:hover .add-cart{
+    opacity: 1;
+}
+
+.home-promo{
+    margin-right: 20px;
+    height: 70vh;
+}
+
+.home-promo .promo-banner {
+    position: relative;
+    height: 65vh;
+}
+
+.promo-title,
+.promo-desc,
+.promo-go {
+    position: absolute;
+    left: 20px;
+    max-width: 50%;
+}
+
+.promo-title {
+    top: 5%;
+    font-size: 25px;
+    text-align: left;
+    color: #2e5c03;
+}
+
+.promo-desc {
+    top: 20%;
+    font-size: 18px;
+    text-align: justify;
+    color: #2e5c03;
+}
+
+.promo-go {
+    top: 50%;
+    font-size: 20px;
+    border: #5ba515 2px solid;
+    background-color: #5ba515;
+    color: #ffffff;
+    min-width: 30%;
+}
+.promo-go:hover{
+    background-color: #ffffff;
+    color: #5ba515;
+
+}
+
+.home-promo .promo-static{
+    margin-left: 15px;
+    height: 30vh;
+    position: relative;
+    overflow: hidden;
+    margin-bottom: 5vh;
+}
+
+
+.home-promo .promo-static .promo-title {
+    top: 5%;
+    font-size: 20px;
+    max-width: 70%;
+    text-align: left;
+    color: #2e5c03;
+}
+.home-promo .promo-static .promo-go {
+    top: 70%;
+    font-size: 20px;
+    border: #5ba515 2px solid;
+    background-color: #5ba515;
+    color: #ffffff;
+    min-width: 30%;
+}
+.home-promo .promo-static .promo-go:hover{
+    background-color: #ffffff;
+    color: #5ba515;
+    transition: transform 0.3s;
+}
+
+.home-cats {
+    width: 100%;
+    position: relative;
+    transition: transform .2s;
+}
+.home-cats:hover{
+    /*transform: scale(1.2);*/
+}
+.home-cats h4{
+    color: #ffffff;
+    position: absolute;
+    bottom: 0px;
+    margin: 10px;
+    padding: 10px 0;
+    min-width: 220px;
+    max-width: 310px;
+    max-height: 220px;
+    width: 100%;
+    /*border-radius: 0 0 10px 10px;*/
+    background-color: rgba(91, 165, 21, 0.8);
+    opacity: 1;
+}
+.home-cats:hover h4{
+    opacity: 0;
+}
+figure.snip1256 {
+    font-family: 'Montserrat', sans-serif;
+    position: relative;
+    overflow: hidden;
+    margin: 10px;
+    min-width: 220px;
+    max-width: 310px;
+    max-height: 220px;
+    width: 100%;
+    color: #5ba515;
+    text-align: left;
+    background-color: rgba(91, 165, 21, 0.3);
+    font-size: 16px;
+    -webkit-perspective: 50em;
+    perspective: 50em;
+    border-radius: 10px;
+    box-shadow: 0px 0px 13px 0px #00000040;
+}
+figure.snip1256 * {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    -webkit-transition: all 0.6s ease;
+    transition: all 0.6s ease;
+}
+
+figure.snip1256 img {
+    opacity: 1;
+    width: 100%;
+    -webkit-transform-origin: 50% 100%;
+    -ms-transform-origin: 50% 100%;
+    transform-origin: 50% 100%;
+}
+figure.snip1256 figcaption {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    -webkit-transform: rotateX(-90deg);
+    transform: rotateX(-90deg);
+    -webkit-transform-origin: 50% -50%;
+    -ms-transform-origin: 50% -50%;
+    transform-origin: 50% -50%;
+    z-index: 1;
+    opacity: 0;
+    padding: 20px 30px;
+}
+figure.snip1256 h3,
+figure.snip1256 p {
+    line-height: 1.5em;
+}
+figure.snip1256 h3 {
+    margin: 0;
+    font-weight: 800;
+    /*text-transform: uppercase;*/
+}
+figure.snip1256 p {
+    font-size: 0.8em;
+    font-weight: 500;
+    margin: 0 0 15px;
+}
+figure.snip1256 .read-more {
+    border: 2px solid #5ba515;
+    padding: 0.5em 1em;
+    font-size: 0.8em;
+    text-decoration: none;
+    color: #5ba515;
+    display: inline-block;
+}
+figure.snip1256 .read-more:hover {
+    background-color: #5ba515;
+    color: #ffffff;
+}
+figure.snip1256:hover img,
+figure.snip1256.hover img {
+    -webkit-transform: rotateX(90deg);
+    transform: rotateX(90deg);
+    opacity: 0;
+}
+figure.snip1256:hover figcaption,
+figure.snip1256.hover figcaption {
+    -webkit-transform: rotateX(0deg);
+    transform: rotateX(0deg);
+    opacity: 1;
+    -webkit-transition-delay: 0.2s;
+    transition-delay: 0.2s;
+}
+
+.footer-shipping{
+    background-color: rgba(91, 165, 21, 0.1);
+    padding: 20px 0;
+}

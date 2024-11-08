@@ -1,0 +1,192 @@
+.admin-sb{
+    background-color: rgba(91, 165, 21, 0.1);
+    min-height: 100%;
+}
+
+.admin-sb i{
+    padding-right: 10px;
+}
+.admin-sb a{
+    text-decoration: none;
+}
+
+.admin-sb .accordion{
+    border-radius: unset;
+    background-color: rgba(91, 165, 21, 0.1);
+}
+
+#accsetting-btn:after{
+    display: none;
+}
+
+.admin-sb .accordion-item{
+    border-left: none;
+    border-right: none;
+    border-radius: unset;
+}
+.admin-sb .accordion-button:focus{
+    outline: none;
+}
+
+.admin-sb .accordion-header{
+
+}
+.admin-sb .accordion-item .accordion-button{
+    background-color: rgba(91, 165, 21, 0.1);
+}
+
+.admin-sb .accordion-collapse{
+    background-color: rgba(91, 165, 21, 0.1);
+}
+
+.admin-sb .accordion-body{
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.admin-sb .sb-btn{
+    border: none;
+    width: 100%;
+    background-color: rgba(91, 165, 21, 0);
+    color: rgba(91, 165, 21, 1);
+    padding: 10px 0 10px 20px;
+}
+.admin-sb .sb-btn:hover{
+    color: #ffffff;
+    background-color: #5ba515;
+}
+
+.admin-content{
+    margin-top: 20px;
+}
+
+.action-btn{
+    margin-right: 5px;
+}
+.action-btn a{
+    text-decoration: none;
+    color: #ffffff;
+}
+.card-header .add-btn{
+    background-color: #5ba515;
+    color: #ffffff;
+    border: solid 2px #5ba515;
+    margin-left: 10px;
+}
+.card-header .add-btn:hover{
+    color: #5ba515;
+    background-color: #ffffff;
+    border: solid 2px #5ba515;
+}
+
+.card-body .add-btn{
+    background-color: #5ba515;
+    color: #ffffff;
+    border: solid 2px #5ba515;
+    margin-left: 10px;
+}
+
+.card-body .add-btn:hover{
+    color: #5ba515;
+    background-color: #ffffff;
+    border: solid 2px #5ba515;
+}
+.card-body .edit-btn{
+    background-color: #ffc008;
+    color: #ffffff;
+    border: solid 2px #ffc008;
+    margin-left: 10px;
+}
+.card-body .edit-btn:hover{
+    color: #ffc008;
+    background-color: #ffffff;
+    border: solid 2px #ffc008;
+}
+
+.card-body .delete-btn{
+    background-color: #dc3545;
+    color: #ffffff;
+    border: solid 2px #dc3545;
+    margin-left: 10px;
+}
+.card-body .delete-btn:hover{
+    color: #dc3545;
+    background-color: #ffffff;
+    border: solid 2px #dc3545;
+}
+
+.card-body .detail-btn{
+    background-color: #11caf0;
+    color: #ffffff;
+    border: solid 2px #11caf0;
+    margin-left: 10px;
+}
+.card-body .detail-btn:hover{
+    color: #11caf0;
+    background-color: #ffffff;
+    border: solid 2px #11caf0;
+}
+
+.card-header .hd-item{
+    display: flex;
+    align-items: flex-end;
+}
+
+.admin-content .view-search form{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.admin-content .view-search input{
+    flex: 1;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+.admin-content .view-search button{
+    padding: 10px 15px;
+    background-color: #007bff; /* Màu nút */
+    color: #fff; /* Màu chữ trắng */
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+
+
+.add-form{
+    background-image: url("https://images.unsplash.com/photo-1524055988636-436cfa46e59e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2741&q=80");
+    background-size: cover;
+    background-position: center;
+    padding-bottom: 20px;
+}
+.add-form .add-btn{
+    background-color: #5ba515;
+    color: #ffffff;
+}
+.add-form .add-btn:hover{
+    color: #ffffff;
+    background-color: rgba(91, 165, 21, 0.8);
+}
+.add-form button{
+    margin: 0 5px;
+}
+.edit-img{
+    margin: 10px 0;
+}
+.edit-img button{
+    margin-top: 10px;
+}
+
+.admin-content .pagination {
+    margin-top: 20px;
+    color: #5ba515;
+}
+.admin-content .pagination .page-item .page-link{
+    color: #5ba515;
+}
+
+.admin-content .pagination .active .page-item .page-link{
+    background-color: #5ba515;
+    color: #ffffff;
+}

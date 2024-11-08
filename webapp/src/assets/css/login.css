@@ -1,0 +1,25 @@
+.login-page{
+    background-image: url("https://images.unsplash.com/photo-1517971853835-fb45b2b91daf?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2500&q=80");
+    background-size: cover;
+    background-position: center;
+    padding: 30px 0;
+}
+
+.login-page a{
+    text-decoration: none;
+    color: #5ba515;
+}
+
+.login-page input{
+    border: none;
+    border-radius: 5px;
+}
+.login-page .login-btn{
+    background: #5ba515;
+    color: #ffffff;
+    width: 50%;
+}
+.login-page .login-btn:hover{
+    background: rgba(91, 165, 21, 0.2);
+    color: #5ba515;
+}

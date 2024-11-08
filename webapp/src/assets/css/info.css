@@ -1,0 +1,58 @@
+
+
+.info-page{
+    margin: 20px 0;
+}
+
+.add-btn{
+    font-size: 20px;
+    border-radius: 5px;
+    background-color: #5ba515;
+    color: #ffffff;
+    border: solid 2px #5ba515;
+    margin: 5px;
+}
+.add-btn:hover{
+    color: #5ba515;
+    background-color: #ffffff;
+    border: solid 2px #5ba515;
+}
+.edit-btn{
+    font-size: 20px;
+    border-radius: 5px;
+    background-color: #ffc008;
+    color: #ffffff;
+    border: solid 2px #ffc008;
+    margin: 5px;
+}
+.edit-btn:hover{
+    color: #ffc008;
+    background-color: #ffffff;
+    border: solid 2px #ffc008;
+}
+.detail-btn{
+    font-size: 20px;
+    border-radius: 5px;
+    background-color: #11caf0;
+    color: #ffffff;
+    border: solid 2px #11caf0;
+    margin: 5px;
+}
+.detail-btn:hover{
+    color: #11caf0;
+    background-color: #ffffff;
+    border: solid 2px #11caf0;
+}
+.delete-btn{
+    font-size: 20px;
+    border-radius: 5px;
+    background-color: #dc3545;
+    color: #ffffff;
+    border: solid 2px #dc3545;
+    margin: 5px;
+}
+.delete-btn:hover{
+    color: #dc3545;
+    background-color: #ffffff;
+    border: solid 2px #dc3545;
+}
